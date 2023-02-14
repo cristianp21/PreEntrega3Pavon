@@ -1,0 +1,24 @@
+.ibody { 
+    background-color: $colorPrincipal;
+    color: $colorTexto;
+    border: 1px solid white;
+    border-radius: 8px;
+    margin: 30px auto;
+    width: 500px;
+}
+
+.jumbotron {
+
+    border-radius: 8px 8px 0px 0px;
+    padding: 16px;
+
+    h1 {
+        font-size: 36px;
+        text-align: center;
+    }
+}
+
+.fcontacto {
+    padding: 10px;
+
+}

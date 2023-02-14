@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2? family= Roboto:wght@500 & display=swap");
+body {
+  background-color: black;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+.ibody, .ibody2 {
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  border-radius: 8px;
+  margin: 30px auto;
+  width: 500px;
+}
+
+.ibody2 {
+  justify-content: center;
+  align-items: center;
+}
+
+#boton {
+  background-color: black;
+}
+#boton ul li a {
+  color: white;
+  font-size: 1.4em;
+}
+
+.ibody, .ibody2 {
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  border-radius: 8px;
+  margin: 30px auto;
+  width: 500px;
+}
+
+.jumbotron {
+  border-radius: 8px 8px 0px 0px;
+  padding: 16px;
+}
+.jumbotron h1 {
+  font-size: 36px;
+  text-align: center;
+}
+
+.fcontacto {
+  padding: 10px;
+}
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,30 @@
+// extends
+.ibody {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 8px;
+    margin: 30px auto;
+    width: 500px;
+  }
+  
+
+.ibody2{
+
+    @extend .ibody;
+    justify-content: center;
+    align-items: center;
+}
+
+//mixins
+
+@mixin color($ctext,$font){
+    
+    color: $ctext;
+    font-size: $font;
+}
+
+//p{
+//  @include color(white ,2.4em)
+//  }
+
